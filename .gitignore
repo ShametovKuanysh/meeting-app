@@ -1,5 +1,5 @@
 # Исключаем сборку Angular
-client/dist/
+frontend/dist/
 
 # Исключаем зависимости Node.js
 node_modules/
